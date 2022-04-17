@@ -13,12 +13,6 @@ function Footer() {
   return (
     <div className='footer'>
         <div className='socialMedia'>
-            {/* <TwitterIcon />
-            <InstagramIcon />
-            <InstagramIcon />
-            <PinterestIcon />
-            <FacebookIcon />
-            <LinkedInIcon/> */}
 
             <Link href="https://twitter.com/SonyaHammemi"  target="_blank" >
               <TwitterIcon />
